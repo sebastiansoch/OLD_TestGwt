@@ -1,0 +1,2 @@
+serviceClass: org.yournamehere.client.Liczydlo
+path: 9D4EF0A3A94F481E4382EF35ED0154D7.gwt.rpc

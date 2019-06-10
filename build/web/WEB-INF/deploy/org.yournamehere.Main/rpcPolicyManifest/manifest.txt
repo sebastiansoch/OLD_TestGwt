@@ -1,0 +1,4 @@
+# Module org.yournamehere.Main
+# RPC service class, partial path of RPC policy file
+org.yournamehere.client.CalculatorService, 8D032C6CFCF7B9CFE398FB0E4E62C27E.gwt.rpc
+org.yournamehere.client.Liczydlo, 9D4EF0A3A94F481E4382EF35ED0154D7.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: org.yournamehere.client.CalculatorService
+path: 8D032C6CFCF7B9CFE398FB0E4E62C27E.gwt.rpc
